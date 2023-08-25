@@ -1,2 +1,2 @@
-# ready4blogs
+# Ready4Blogs
 Blogger in Web Developement
